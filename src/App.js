@@ -7,6 +7,7 @@ class App extends Component {
 		this.props.increaseCount();
 	};
 
+	
 	render() {
 		return (
 			<div className="App">
